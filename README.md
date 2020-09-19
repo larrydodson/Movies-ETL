@@ -23,26 +23,27 @@
 
 
   ### Deliverable 1 - Write an ETL function to read three data files
-  
+   Please see ETL_function_test.ipynb
   
   
   
 .
 
   ### Deliverable 2 - Extract and Transform the Wikipedia Data
-  
+   Please see ETL_clean_wiki_movies.ipynb
   
   
   
 .
 
   ### Deliverable 3 - Extract and Transform the Kaggle Data
-  
+   Please see ETL_clean_kaggle_data.ipynb
   
   
 .
 
-  ### Deliverable 4 - Create the Movie Database
+  ### Deliverable 4 - Create the Movie Database 
+   Please see ETL_create_database.ipynb
   
    * For the .csv data files to use during the coding process, these are quite large and were not permitted for download to the Git Repo by Git.
     wikipedia.movies.json, movies_metadata.csv, ratings.csv, 
