@@ -13,7 +13,7 @@
 
    ### Resources
   * Data sources: wikipedia.movies.json, movies_metadata.csv, ratings.csv
-  * Software: Windows10, Python 3.8.3, Pandas, Jupyter Notebook, PostgreSQL 12, pgAdmin4 4.24
+  * Software: Windows10, Python 3.8.3, Pandas, sqlalchemy, Jupyter Notebook, PostgreSQL 12, pgAdmin4 4.24
   
   
   
