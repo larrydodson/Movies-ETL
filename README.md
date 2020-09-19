@@ -12,7 +12,7 @@
 
 
    ### Resources
-  * Data sources: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
+  * Data sources: wikipedia.movies.json, movies_metadata.csv, ratings.csv
   * Software: Windows10, Python 3.8.3, Pandas, Jupyter Notebook, PostgreSQL 12, pgAdmin4 4.24
   
   
